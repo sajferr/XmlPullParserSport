@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kluby>
+    <angielski>
+        <name name2="chelsea"></name>
+        <boisko>StamfordBridge</boisko>
+        <gwiazda>Eden Hazard</gwiazda>
+        <trener>Conte</trener>
+    </angielski>
+
+    <angielski>
+        <name name2="united"></name>
+    <boisko>Old Trafford</boisko>
+    <gwiazda>Rooney</gwiazda>
+    <trener>Mourinho</trener>
+    </angielski>
+
+    <angielski>
+        <name name2="city"></name>
+    <boisko>Etihad</boisko>
+    <gwiazda>Silva</gwiazda>
+    <trener>Guardiola</trener>
+    </angielski>
+
+    <angielski>
+        <name name2="arsenak"></name>
+    <boisko>4</boisko>
+    <gwiazda>4</gwiazda>
+    <trener>4</trener>
+    </angielski>
+</kluby>
